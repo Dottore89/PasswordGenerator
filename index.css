@@ -87,6 +87,7 @@ top: 396px;
 color: #55F991;
 background: #273549;
 border-radius: 6px;
+border: none;
 }
 
 #passwordTwo {
@@ -102,6 +103,7 @@ top: 396px;
 color: #55F991;
 background: #273549;
 border-radius: 6px;
+border: none;
 }
 
 sup {
