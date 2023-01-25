@@ -21,10 +21,6 @@ function generateRandomPassword() {
 }
 
 generatePasswordButton.addEventListener("click", function() {
-    passwordOneButton.textContent = generateRandomPassword();
+    passwordOneButton.textContent = generateRandomPassword()
     passwordTwoButton.textContent = generateRandomPassword()
 })
-
-const generatedPasswordOne = generateRandomPassword()
-
-const generatedPasswordTwo = generateRandomPassword()
